@@ -34,8 +34,21 @@ body {
   font-size: var(--fs-primary);
   color: var(--clr-neutral--100);
   display: grid;
-  grid-template-columns: 1fr 5fr 1fr;
-  grid-template-rows: 1fr 4fr 1fr;
+  grid-template-columns: 1fr 10fr 1fr;
+  grid-template-rows: 1fr 8fr 1fr;
+}
+
+.main__container {
+  grid-column: 2/3;
+  grid-row: 2/3;
+  justify-self: center;
+  align-self: center;
+  display: flex;
+  max-width: 60%;
+}
+
+.outline {
+  padding: 2rem;
 }
 
 .section-1 {
@@ -48,4 +61,11 @@ body {
 
 .section-3 {
   background-color: var(--clr-accent--900);
+}
+
+.footer {
+  grid-column: 2/3;
+  grid-row: 3/4;
+  justify-self: center;
+  align-self: center;
 }
