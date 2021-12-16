@@ -1,5 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
 
+:root {
+  /* Transparent white (Paragraphs) */
+  --clr-neutral--100: hsla(0, 0%, 100%, 0.75);
+  /* Very light gray (Background, Headings, Buttons) */
+  --clr-neutral--300: hsl(0, 0%, 95%);
+  /*Bright orange (for the first section)*/
+  --clr-accent--300: hsl(31, 77%, 52%);
+  /*Dark cyan (for the second section)*/
+  --clr-accent--500: hsl(184, 100%, 22%);
+  /*Very dark cyan (for the third section)*/
+  --clr-accent--900: hsl(179, 100%, 13%);
+  /* Fonts */
+  --ff-primary: 'Lexend Deca', sans-serif;
+  --ff-accent: 'Big Shoulders Display', cursive;
+  --fs-primary: 0.875rem;
+  --br: 1.7em;
+}
+
 
 /*------ Global Settings------*/
 *,
