@@ -78,9 +78,22 @@ body {
   background-color: var(--clr-neutral--300);
   border-radius: var(--br);
   padding: 0.8em 2em;
-  color: black;
+  font-weight: bold;
   text-align: center;
   font-size: 1rem;
+  border: 1px solid var(--clr-neutral--100);
+}
+
+.btn-1 {
+  color: var(--clr-accent--300);
+}
+
+.btn-2 {
+  color: var(--clr-accent--500);
+}
+
+.btn-3 {
+  color: var(--clr-accent--900);
 }
 
 .section-1 {
