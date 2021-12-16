@@ -32,7 +32,20 @@ body {
   background-color: var(--clr-neutral--300);
   font-family: var(--ff-primary);
   font-size: var(--fs-primary);
+  color: var(--clr-neutral--100);
   display: grid;
   grid-template-columns: 1fr 5fr 1fr;
   grid-template-rows: 1fr 4fr 1fr;
+}
+
+.section-1 {
+  background-color: var(--clr-accent--300);
+}
+
+.section-2 {
+  background-color: var(--clr-accent--500);
+}
+
+.section-3 {
+  background-color: var(--clr-accent--900);
 }
