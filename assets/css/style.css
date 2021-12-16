@@ -51,6 +51,7 @@ body {
 .section {
   padding: 3em;
   min-width: 22rem;
+  max-width: 25rem;
   display: grid;
   grid-template-rows: 0.1fr 0.1fr 4fr 0.1fr;
   gap: 2rem;
@@ -78,10 +79,9 @@ body {
   background-color: var(--clr-neutral--300);
   border-radius: var(--br);
   padding: 0.8em 2em;
-  font-weight: bold;
   text-align: center;
   font-size: 1rem;
-  border: 1px solid var(--clr-neutral--100);
+  border: 2px solid var(--clr-neutral--300);
 }
 
 .btn-1 {
@@ -94,6 +94,12 @@ body {
 
 .btn-3 {
   color: var(--clr-accent--900);
+}
+
+.btn:hover,
+.btn:focus {
+  background-color: transparent;
+  color: var(--clr-neutral--300)
 }
 
 .section-1 {
