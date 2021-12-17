@@ -1,6 +1,15 @@
 # Frontend Mentor - 3-column preview card component
 
-![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)
+The project was based on the challenge provided by [Frontend Mentor](https://www.frontendmentor.io).
+
+This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). 
+
+## The design provided
+
+![Design preview for the Order summary card coding challenge](documentation/desktop-preview.jpg)
+
+
+
 
 ## Welcome! 👋
 
