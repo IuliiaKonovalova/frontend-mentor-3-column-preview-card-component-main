@@ -78,11 +78,11 @@ The solution to this challenge can be accessed by this [link](https://iuliiakono
 - Family: [Lexend Deca](https://fonts.google.com/specimen/Lexend+Deca)
 - Weights: 400
 
-![Lexend Deca](documentation/design/font_family.png)
+![Lexend Deca](documentation/design/ff_lexend_deca.png)
 
 - Family: [Big Shoulders Display](https://fonts.google.com/specimen/Big+Shoulders+Display)
 - Weights: 700
 
-![Big Shoulders Display](documentation/design/font_family.png)
+![Big Shoulders Display](documentation/design/ff_big_shoulders_display.png)
 
 ---
