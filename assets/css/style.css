@@ -125,9 +125,20 @@ body {
   align-self: center;
 }
 
+.attribution {
+  font-size: 1.4rem;
+  text-align: center;
+  color: #525252
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+
 @media screen and (max-width: 1000px) {
   body {
-    grid-template-rows: minmax(5rem, 2fr) 5fr 2fr;
+    grid-template-rows: minmax(5rem, 2fr) 5fr minmax(10rem, 2fr);
   }
 
   .main__container {
