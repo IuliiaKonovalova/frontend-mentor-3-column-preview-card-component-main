@@ -46,3 +46,9 @@ The solution to this challenge can be accessed by this [link](https://iuliiakono
 * As a Frequent User, I want to see the changes in content and offers, so I can easily make a choice.
 
 ---
+
+## Features
+
+
+
+---
