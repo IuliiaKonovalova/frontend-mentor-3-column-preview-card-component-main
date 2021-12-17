@@ -35,7 +35,7 @@ body {
   color: var(--clr-neutral--100);
   display: grid;
   grid-template-columns: 1fr 4fr 1fr;
-  grid-template-rows: 2fr 5fr 2fr;
+  grid-template-rows: minmax(7rem, 2fr) 5fr 2fr;
   height: 100vh;
   width: 100vw;
 }
@@ -120,3 +120,5 @@ body {
   justify-self: center;
   align-self: center;
 }
+
+@media screen and (max-width: 1200) {}
