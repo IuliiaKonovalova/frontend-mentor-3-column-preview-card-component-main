@@ -36,7 +36,7 @@ body {
   color: var(--clr-neutral--100);
   display: grid;
   grid-template-columns: 1fr 4fr 1fr;
-  grid-template-rows: minmax(7vh, 2fr) 5fr 2fr;
+  grid-template-rows: minmax(7rem, 2fr) 5fr 2fr;
   height: 100vh;
   width: 100%;
 }
@@ -138,7 +138,7 @@ body {
 
 @media screen and (max-width: 1000px) {
   body {
-    grid-template-rows: minmax(10vh, 2fr) 5fr minmax(13vh, 2fr);
+    grid-template-rows: minmax(5rem, 2fr) 5fr minmax(10rem, 2fr);
   }
 
   .main__container {
