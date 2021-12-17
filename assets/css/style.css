@@ -126,13 +126,8 @@ body {
 }
 
 @media screen and (max-width: 1000px) {
-  body {
-    background-color: aqua;
-  }
-
 
   body {
-    /* grid-template-columns: 1fr 4fr 1fr; */
     grid-template-rows: minmax(5rem, 2fr) 5fr 2fr;
   }
 
@@ -158,16 +153,9 @@ body {
 }
 
 @media screen and (max-width: 700px) {
-  body {
-    background-color: aqua;
-  }
-
 
   body {
     grid-template-columns: 0.5fr 4fr 0.5fr;
-    grid-template-rows: minmax(5rem, 2fr) 5fr 2fr;
-    height: 100vh;
-    width: 100vw;
   }
 
 
@@ -179,6 +167,10 @@ body {
     padding: 2.5em;
     grid-template-rows: 0.1fr 0.3fr 2fr 1fr;
     gap: 1.5rem;
+  }
+
+  .section__title {
+    font-size: 2.5rem;
   }
 
   .section__description {
