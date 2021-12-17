@@ -16,6 +16,7 @@
   --ff-accent: 'Big Shoulders Display', cursive;
   --fs-primary: 1.1rem;
   --br: 1.7em;
+  --br2: 0.7em;
 }
 
 
@@ -50,7 +51,7 @@ body {
 
 .section {
   padding: 3em;
-  min-width: 22rem;
+  min-width: 18rem;
   max-width: 25rem;
   display: grid;
   grid-template-rows: 0.1fr 0.3fr 4fr 1fr;
@@ -72,7 +73,6 @@ body {
   display: flex;
   justify-content: start;
   align-self: center;
-
 }
 
 .btn {
@@ -104,6 +104,8 @@ body {
 
 .section-1 {
   background-color: var(--clr-accent--300);
+  border-top-left-radius: var(--br2);
+  border-bottom-left-radius: var(--br2);
 }
 
 .section-2 {
@@ -112,6 +114,8 @@ body {
 
 .section-3 {
   background-color: var(--clr-accent--900);
+  border-top-right-radius: var(--br2);
+  border-bottom-right-radius: var(--br2);
 }
 
 .footer {
@@ -120,5 +124,3 @@ body {
   justify-self: center;
   align-self: center;
 }
-
-@media screen and (max-width: 1200) {}
