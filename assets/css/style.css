@@ -181,11 +181,7 @@ body {
   }
 
   .btn {
-    background-color: var(--clr-neutral--300);
-    border-radius: var(--br);
     padding: 0.5em 1em;
-    text-align: center;
     font-size: 0.8rem;
-    border: 2px solid var(--clr-neutral--300);
   }
 }
