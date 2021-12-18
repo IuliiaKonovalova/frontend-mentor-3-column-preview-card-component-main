@@ -139,3 +139,14 @@ The solution to this challenge can be accessed by this [link](https://iuliiakono
   [CSS Validator Errors](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fiuliiakonovalova.github.io%2Ffrontend-mentor-3-column-preview-card-component-main%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ---
+
+
+### Lighthouse Report
+
+![Lighthouse Report](documentation/lighthouse_report.png)
+
+The percentage for accessability is 94% due to the designer's solution:
+
+![Lighthouse Report Issue](documentation/lighthousereport_issue_1.png)
+
+---
