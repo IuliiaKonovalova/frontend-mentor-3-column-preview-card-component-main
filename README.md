@@ -192,3 +192,16 @@ In your IDE Terminal, type the following command to clone my repository:
 
   - [Frontend Mentor](https://www.frontendmentor.io) for inspiring to improve my skills.
 
+## Wireframes
+
+- Desktop:
+
+![Design preview for tOrder summary card coding challenge](documentation/design/desktop-design.jpg)
+
+- Mobile:
+
+![Design preview for Order summary card coding challenge](documentation/design/mobile-design.jpg)
+
+- Active States:
+
+![Active State Design preview for Order summary card coding challenge](documentation/design/active-states.jpg)
