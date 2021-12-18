@@ -171,3 +171,24 @@ In your IDE Terminal, type the following command to clone my repository:
 - `git clone https://github.com/IuliiaKonovalova/frontend-mentor-3-column-preview-card-component-main.git`
 
 ---
+
+## Author
+
+- Website - [Iuliia Konovalova](https://github.com/IuliiaKonovalova)
+- Frontend Mentor - [@IuliiaKonovalova](https://www.frontendmentor.io/profile/IuliiaKonovalova)
+
+---
+
+## Credits
+
++ ### Content and Design
+
+  - [Frontend Mentor](https://www.frontendmentor.io) had provided all necessary content and design that was used in order to complete this challenge.
+  - [Google Fonts](https://fonts.google.com/) was usd in order to implement required font.
+
+---
+
+## Acknowledgement
+
+  - [Frontend Mentor](https://www.frontendmentor.io) for inspiring to improve my skills.
+
