@@ -86,3 +86,22 @@ The solution to this challenge can be accessed by this [link](https://iuliiakono
 ![Big Shoulders Display](documentation/design/ff_big_shoulders_display.png)
 
 ---
+
+
+## Bugs
+
++ **Solved bugs**
+
+1. The website had overflow.
+    
+    *Solution*: Change the width of the body from 100vw to 100%.
+
+1. The border-radius for main_container did not work due to the use of grid for the website.
+
+    *Solution*: Add border-radius to subsections and restyle the borders for the small screens by using media queries.
+
++ **Unsolved bugs**
+
+    - None.
+
+---
