@@ -105,3 +105,22 @@ The solution to this challenge can be accessed by this [link](https://iuliiakono
     - None.
 
 ---
+## Testing
+
+### Compatibility:
+
++ The app was tested on the following browsers: Chrome, Firefox, Brave, Edge:
+
+  - Chrome:
+
+  ![Main Page](documentation/compatibility/browser_chrome.png)
+  
+  - Firefox:
+
+  ![Main Page](documentation/compatibility/browser_firefox.png)
+
+  - Brave:
+
+  ![Main Page](documentation/compatibility/browser_brave.png)
+
+---
